@@ -184,7 +184,7 @@ export const CONTENT = {
     },
     cases: {
       eyebrow: 'Case Studies',
-      title: 'Selected Findings from Our 2025 Company Profile',
+      title: 'Selected Findings',
       subtitle: 'Filter by research practice or select a study to inspect the measured data.',
       focusLabel: 'Focus',
       takeawayLabel: 'Key Finding',
@@ -237,7 +237,7 @@ export const CONTENT = {
     clients: {
       eyebrow: 'Clients & Testimonials',
       title: '70% of Clients Come Back for More Insights',
-      subtitle: 'Organizations and brands featured in Firstat’s 2025 Company Profile.',
+      subtitle: 'Organizations and brands featured in Firstat’s.',
       pauseLabel: 'Pause logo scroll',
       playLabel: 'Resume logo scroll',
       testimonialsTitle: 'Client & Partner Video Testimonials',
